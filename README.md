@@ -1,5 +1,243 @@
-## Hi there 👋
+<div align="center">
 
+👋 Hi, I'm Ghulam Mustafa
+
+🐍 Python Developer • Software Engineer • AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Django+%7C+Flask+%7C+FastAPI;REST+API+Developer;AI+%26+NLP+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/ghulam-mustafa-rind-488724277/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Ghulammustafarind">
+    <img src="https://img.shields.io/badge/GitHub-Ghulammustafarind-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:ghulam.mustafa20004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Ghulammustafarind&label=Profile%20Views&color=3776AB&style=flat" alt="Profile views">
+
+</div>
+
+🧑‍💻 About Me
+
+I'm a Software Engineering graduate and Python Developer passionate about building practical software solutions and AI-powered applications.
+
+My technical background includes Python, Django, Flask, FastAPI, RESTful APIs, PostgreSQL, MySQL, Git, Docker, Celery, Nginx, Pandas, and NumPy.
+
+I enjoy turning ideas into working applications and continuously improving my software development and problem-solving skills.
+
+class GhulamMustafa:
+    role = "Python Developer"
+    education = "B.S. Software Engineering"
+    focus = ["Backend Development", "AI", "NLP", "REST APIs"]
+    mindset = "Always learning, always building"
+
+🚀 What I Do
+
+Area
+
+Focus
+
+🐍 Python
+
+Application & backend development
+
+🌐 Backend
+
+Django, Flask, FastAPI
+
+🔌 APIs
+
+RESTful API development
+
+🤖 AI
+
+AI-powered applications
+
+🧠 NLP
+
+Natural-language command processing
+
+🗄️ Databases
+
+PostgreSQL, MySQL, SQLite
+
+🚀 DevOps
+
+Docker, Celery, Nginx
+
+📊 Data
+
+Pandas & NumPy
+
+💻 Featured Projects
+
+🤖 AI-Powered Chat-Based Personal Assistant
+
+A cross-platform AI-powered mobile application designed to manage reminders, notes, and expenses through natural-language commands.
+
+Highlights
+
+🧠 NLP-based intent recognition
+
+🎤 Voice-command support
+
+📝 Notes management
+
+⏰ Reminder management
+
+💰 Expense management
+
+☁️ Real-time Firebase synchronization
+
+💬 Conversational user interface
+
+Tech Stack
+
+Flutter Firebase NLP
+
+📌 Add your project repository link here once the project repository is public.
+
+📚 Library Management System
+
+A Python-based application for basic library book management.
+
+Features
+
+📖 List books
+
+📥 Request books
+
+📤 Return books
+
+Tech Stack
+
+Python
+
+📌 Add your project repository link here once the project repository is public.
+
+🛠️ Tech Stack
+
+💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js" alt="Languages">
+</p>
+
+🌐 Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Frameworks">
+</p>
+
+🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases">
+</p>
+
+🧰 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx" alt="Tools">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+
+📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ghulammustafarind&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghulammustafarind&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ghulammustafarind&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ghulammustafarind/Ghulammustafarind/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+
+</div>
+
+To enable the snake: create a GitHub Actions workflow in this profile repository that generates the output branch. See the setup instructions below.
+
+🎯 Current Focus
+
+🐍 Improving my Python development skills
+
+🌐 Building backend applications with Django and FastAPI
+
+🔌 Developing RESTful APIs
+
+🤖 Exploring AI-powered applications
+
+🧠 Learning more about NLP
+
+🗄️ Working with databases
+
+🐳 Learning better deployment practices with Docker
+
+📜 Certifications
+
+🏅 Information Technology Specialist in Python
+
+🏅 Python 101 for Data Science — Cognitive Class.ai
+
+🎓 Education
+
+B.S. Software Engineering
+University of Sindh, Hyderabad, Pakistan
+
+Completed: December 2025
+
+🌍 Languages
+
+🇵🇰 Urdu — Native
+
+🇬🇧 English — Fluent
+
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ghulam-mustafa-rind-488724277/">
+<img src="https://img.shields.io/badge/LinkedIn-Ghulam%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ghulam.mustafa20004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ghulam.mustafa20004-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Ghulammustafarind">
+<img src="https://img.shields.io/badge/GitHub-Ghulammustafarind-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<div align="center">
+
+🚀 Always Learning • Always Building • Always Improving
+
+⭐ Thanks for visiting my profile!
+
+</div>
 <!--<div align="center">                      
 
 👋 Hi, I'm Ghulam Mustafa
