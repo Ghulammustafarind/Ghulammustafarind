@@ -118,11 +118,7 @@ A Python-based application for basic library book management.
 <img src="https://img.shields.io/github/commit-activity/y/Ghulammustafarind/Ghulammustafarind?style=for-the-badge" alt="Commit activity">
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=Ghulammustafarind&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
 
-> **Note:** I removed the two broken GitHub Stats / Top Languages cards from the previous version. Public GitHub stats services can experience API rate limits or downtime, which can cause images to appear broken.
 
 
 ## 🎯 Current Focus
