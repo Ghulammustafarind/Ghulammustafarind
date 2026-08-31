@@ -1,0 +1,20 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="1050" cy="70" r="110" fill="#ffffff" opacity="0.06"/>
+  <circle cx="1120" cy="30" r="55" fill="#ffffff" opacity="0.05"/>
+  <path d="M0 225 C170 255 300 255 455 230 C625 202 755 195 900 218 C1020 237 1110 245 1200 220 L1200 300 L0 300 Z" fill="url(#wave)" opacity="0.35"/>
+  <path d="M0 245 C180 270 320 272 470 246 C650 215 790 214 935 238 C1040 255 1125 260 1200 245 L1200 300 L0 300 Z" fill="#0b1020" opacity="0.9"/>
+  <text x="600" y="120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" fill="#ffffff">GHULAM MUSTAFA</text>
+  <text x="600" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" fill="#ffffff">Python Developer • Software Engineer • AI Enthusiast</text>
+</svg>
