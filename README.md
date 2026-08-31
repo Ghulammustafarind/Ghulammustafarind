@@ -124,19 +124,6 @@ A Python-based application for basic library book management.
 
 > **Note:** I removed the two broken GitHub Stats / Top Languages cards from the previous version. Public GitHub stats services can experience API rate limits or downtime, which can cause images to appear broken.
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghulammustafarind/Ghulammustafarind/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghulammustafarind/Ghulammustafarind/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ghulammustafarind/Ghulammustafarind/output/github-snake.svg">
-</picture>
-</p>
-
----
 
 ## 🎯 Current Focus
 
@@ -178,7 +165,7 @@ University of Sindh, Hyderabad, Pakistan
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ghulam-mustafa-rind-488724277/"><img src="https://img.shields.io/badge/LinkedIn-Ghulam%20Mustafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:ghulam.mustafa20004@gmail.com"><img src="https://img.shields.io/badge/Gmail-ghulam.mustafa20004-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:ghulam.mustafa.rind2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-ghulam.mustafa20004-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/Ghulammustafarind"><img src="https://img.shields.io/badge/GitHub-Ghulammustafarind-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
